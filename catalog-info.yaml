@@ -1,0 +1,18 @@
+    # Example catalog-info.yaml for a Component
+    apiVersion: backstage.io/v1alpha1
+    kind: Component
+    metadata:
+      name: my-service
+      description: A core microservice for data processing
+      tags:
+        - microservice
+        - data
+      links:
+        - url: https://github.com/my-org/my-service
+          title: GitHub Repository
+          icon: github
+    spec:
+      type: service
+      lifecycle: production
+      owner: my-team
+      system: data-platform
