@@ -8,7 +8,7 @@
         - microservice
         - data
       links:
-        - url: https://github.com/my-org/my-service
+        - url: https://github.com/pocidpbk/poc-idp
           title: GitHub Repository
           icon: github
     spec:
