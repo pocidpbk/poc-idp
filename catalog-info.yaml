@@ -12,7 +12,7 @@
           title: GitHub Repository
           icon: github
       annotations:
-        'jenkins.io/job-full-name': "demojob"
+        'jenkins.io/job-full-name': "demo"
     spec:
       type: service
       lifecycle: production
