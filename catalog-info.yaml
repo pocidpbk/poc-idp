@@ -14,7 +14,7 @@
       annotations:
         'jenkins.io/job-full-name': "projectA/demo1,projectA/demo2,projectA/demo3"
     spec:
-      type: service
+      type: frontend
       lifecycle: production
       owner: my-team
       system: data-platform
