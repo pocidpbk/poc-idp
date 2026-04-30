@@ -13,7 +13,7 @@
           icon: github
       annotations:
      #   'jenkins.io/job-full-name': "projectA/demo1,projectA/demo2,projectA/demo3"
-        'argocd/app-name': "zapps-stage-backend"   # Argo CD application name
+        'argocd/app-name': "testbackstage01-prod-frontend"   # Argo CD application name
     spec:
       type: frontend
       lifecycle: production
